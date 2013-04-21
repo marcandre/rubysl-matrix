@@ -1,4 +1,3 @@
-require File.expand_path('../../fixtures/classes', __FILE__)
 require 'matrix'
 
 describe :matrix_conjugate, :shared => true do
