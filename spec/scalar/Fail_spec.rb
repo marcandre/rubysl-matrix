@@ -1,4 +1,3 @@
-require File.expand_path('../../../../spec_helper', __FILE__)
 require 'matrix'
 
 describe "Matrix::Scalar#Fail" do
